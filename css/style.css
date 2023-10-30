@@ -1,0 +1,9 @@
+.col{
+    height: 2rem;
+    background-color: rgb(2, 194, 2);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    text-align: center;
+    font-size: 13px;
+}
